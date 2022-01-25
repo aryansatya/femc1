@@ -1,13 +1,8 @@
 body {
   background-color: #008080;
-
   background-image: url("images/bg-pattern-top.svg"), url("images/bg-pattern-bottom.svg");
   background-position: 0% 50%, 100% -50%;
   background-repeat: no-repeat, no-repeat;
-
-}
-
-.pic{
 
 }
 
@@ -20,15 +15,9 @@ img{
   width: 400px;
 }
 
-
-
 .m{
   height: 160px;
   width: 400px;
-}
-
-.n{
-
 }
 
 .all {
@@ -49,31 +38,28 @@ img{
 }
 
 .q{
-
   border: 5px solid white;
   width: 100px;
   border-radius: 100%;
   z-index: 1;
   position: fixed;
-     top: 43%;
-     left: 50%;
-     transform: translate(-50%, -50%);
-
+  top: 43%;
+  left: 50%;
+  transform: translate(-50%, -50%);
 }
 
 table {
     border-collapse: separate;
     border-spacing: 50px 10px;
-
 }
 
 
 .every{
   filter: drop-shadow(15px 15px 50px #006666);
   position: fixed;
-     top: 50%;
-     left: 50%;
-     transform: translate(-50%, -50%);
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
 }
 
 thead{
